@@ -102,7 +102,7 @@ It’s an ideal mini project for beginners to understand how data-driven applica
 ---
 
 ## 👨‍💻 group project
-**Name:** *Rhul kumar Ray
+**Name:** *Rahul kumar Ray
            souradeep mahanto
            Riddipon Baishya
 **Institution:** *[ASSAM DOWN TOWN UNIVERSITY]*  
