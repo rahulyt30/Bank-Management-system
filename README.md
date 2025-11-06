@@ -104,6 +104,6 @@ It’s an ideal mini project for beginners to understand how data-driven applica
 ## 👨‍💻 group project
 **Name:** *Rahul kumar Ray
            Souradeep Mohanta
-           Riddipon Baishya
+           Ridippon Baishya
 **Institution:** *[ASSAM DOWN TOWN UNIVERSITY]*  
 
